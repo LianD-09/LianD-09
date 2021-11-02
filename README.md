@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @LianD-09
+- 👋 Hi, I’m @Linh Do
 - 🌱 I’m currently learning Hanoi University of Science and Technology
